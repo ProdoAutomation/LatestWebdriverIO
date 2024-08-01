@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//*[@class='m-site_search__item']//h2"
+}

@@ -1,0 +1,3 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Jul 16 15:17:02 BST 2024","Tue Jul 16 15:17:03 BST 2024","1385","","Regression Suite","","","","Launch URL and click Menu link ""Tenancy""",""
+"passed","Tue Jul 16 15:17:03 BST 2024","Tue Jul 16 15:17:04 BST 2024","711","","Regression Suite","","","","Search function",""

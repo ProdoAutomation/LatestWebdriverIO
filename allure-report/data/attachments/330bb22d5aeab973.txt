@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//a[@class='m-site_navigation__link']"
+}

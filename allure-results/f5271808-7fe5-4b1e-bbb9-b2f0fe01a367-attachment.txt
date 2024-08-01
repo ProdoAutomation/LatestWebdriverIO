@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": "//*[@class='m-site_header__logo_link']/img"
+}
